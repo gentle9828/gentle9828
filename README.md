@@ -1,4 +1,6 @@
-### Hi there 👋 I'm ByeongGyu Jeon
+### Hi there 👋 I'm ByeongGyu Jeon ❗️
+- 끊임없이 노력하고 탐구하는 개발자
+- 백엔드로 일하는 개발자
 
 
 <!--
