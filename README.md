@@ -1,8 +1,17 @@
 ### Hi there 👋 I'm ByeongGyu Jeon ❗️
-- 끊임없이 노력하고 탐구하는 개발자 👍
-- 서버를 가치있게 다루고 싶은 백엔드 개발자 😆
+- Gyeongsang National University(2018.03 ~ )
+- soldoc Internship(2023.06.26 ~ 2023.07.21)
+- UMC 5th Spring(2023.09 ~ )
 
+#### Interested in
+- Baeckend Development(Spring, Node.js)
+- Clean Code, Architecture, Design Pattern
+- DevOps
 
+#### Skills
+<p>
+  <img https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white>
+</p>
 <!--
 **gentle9828/gentle9828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
