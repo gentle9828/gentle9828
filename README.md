@@ -3,12 +3,12 @@
 - Team soldoc Intern, DUR Server Development(2023.06.26 ~ 2023.07.21)
 - UMC 5th Spring(2023.09 ~ )
 
-### Interested in
+### _Interested in_
 - Backend Development(Spring, Node.js)
 - Clean Code, Architecture, Design Pattern
 - DevOps
 
-### Skills
+### _Skills_
 <p>
   <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white'>
   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
