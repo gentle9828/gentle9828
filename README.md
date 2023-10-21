@@ -4,7 +4,7 @@
 - UMC 5th Spring(2023.09 ~ )
 
 #### Interested in
-- Baeckend Development(Spring, Node.js)
+- Backend Development(Spring, Node.js)
 - Clean Code, Architecture, Design Pattern
 - DevOps
 
