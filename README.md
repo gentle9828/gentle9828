@@ -11,9 +11,9 @@
 ### _Skills_
 <p>
   <img src='https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white'>
-  <img src='https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white'>
+  <img src='https://img.shields.io/badge/Node.js-F45E3F?style=flat&logo=node.js&logoColor=white'>
   <img src='https://img.shields.io/badge/Express.js-404D59?style=flat'>
-  <img src='https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white'>
+  <img src='https://img.shields.io/badge/Java-6DB33F?style=flat&logo=openjdk&logoColor=white'>
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white'>
   <br>
   <img src='https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white'>
