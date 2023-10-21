@@ -32,7 +32,7 @@
 </p>
 
 <p>
-  <img src='https://github-readme-stats.vercel.app/api?username=gentle9828&show_icons=true&theme=radical'>
+  <img src='https://github-readme-stats.vercel.app/api?username=gentle9828&count_private=true&show_icons=true&theme=tokyonight'>
 </p>
 <!--
 **gentle9828/gentle9828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
