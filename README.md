@@ -11,21 +11,21 @@
 ### _Skills_
 <p>
   <img src='https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white'>
-  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
-  <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>
-  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
-  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white'>
+  <img src='https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white'>
+  <img src='https://img.shields.io/badge/Express.js-404D59?style=flat'>
+  <img src='https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white'>
+  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white'>
   <br>
-  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-  <img src='https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white'>
-  <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
-  <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
+  <img src='https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white'>
+  <img src='https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB'>
+  <img src='https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white'>
+  <img src='https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white'>
+  <img src='https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white'>
   <br>
-  <img src='ttps://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white'>
-  <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'>
-  <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
-  <img src='https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white'>
+  <img src='ttps://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white'>
+  <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white'>
+  <img src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white'>
+  <img src='https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white'>
 
 </p>
 
