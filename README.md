@@ -10,7 +10,7 @@
 
 ### Skills
 <p>
-  <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white'>
+  <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white' width='10', height='10'>
   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
   <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'>
   <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
