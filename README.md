@@ -3,7 +3,7 @@
 ### _Career_
 - Gyeongsang National University, Computer Science(2018.03 ~ 2024. 02)
 - Team soldoc Intern, DUR Server Development(2023.06.26 ~ 2023.07.21)
-- UMC 5th Spring(2023.09 ~ )
+- UMC 5th Spring(2023.09 ~ 2024.02)
 
 ### _Interested in_
 - Backend Development(Spring, Node.js)
