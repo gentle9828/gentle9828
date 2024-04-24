@@ -24,7 +24,7 @@
   <img src='https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white'>
   <img src='https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white'>
   <br>
-  <img src='ttps://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white'>
+  <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white'>
   <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white'>
   <img src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white'>
   <img src='https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white'>
