@@ -7,7 +7,7 @@
 
 ### _Interested in_
 - Backend Development(Spring, Node.js)
-- Clean Code, Architecture, Design Pattern, TDD
+- Clean Code, Architecture, Design Pattern
 - DevOps
 
 ### _Skills_
