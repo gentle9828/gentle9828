@@ -7,7 +7,8 @@
 
 ### _Interested in_
 - Backend Development(Spring, Node.js)
-- Clean Code, Architecture, Design Pattern
+- Flutter
+- Clean Code, Architecture, Design Pattern, TDD
 - DevOps
 
 ### _Skills_
