@@ -7,7 +7,7 @@
 
 ### _Interested in_
 - Backend Development(Spring, Node.js)
-- Flutter
+- Flutter, Dart
 - Clean Code, Architecture, Design Pattern, TDD
 - DevOps
 
