@@ -2,7 +2,6 @@
 
 ### _Career_
 - Omniverse Central, Kolwave(2024.07 ~ 2026.03)
-- Gyeongsang National University, Computer Science(2018.03 ~ 2024. 02)
 - Team soldoc Intern, DUR Server Development(2023.06.26 ~ 2023.07.21)
 - UMC 5th Spring(2023.09 ~ 2024.02)
 
@@ -13,7 +12,7 @@
 - DevOps
 
 ### _Skills_
-<p>
+<!-- <p>
   <img src='https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white'>
   <img src='https://img.shields.io/badge/Node.js-F45E3F?style=flat&logo=node.js&logoColor=white'>
   <img src='https://img.shields.io/badge/Express.js-404D59?style=flat'>
@@ -31,7 +30,7 @@
   <img src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white'>
   <img src='https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white'>
 
-</p>
+</p> -->
 
 <!--
 **gentle9828/gentle9828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
