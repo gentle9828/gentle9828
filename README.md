@@ -11,7 +11,7 @@
 - Clean Code, Architecture, Design Pattern, Test Code
 - DevOps
 
-### _Skills_
+<!--### _Skills_ -->
 <!-- <p>
   <img src='https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white'>
   <img src='https://img.shields.io/badge/Node.js-F45E3F?style=flat&logo=node.js&logoColor=white'>
